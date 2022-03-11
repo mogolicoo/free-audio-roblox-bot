@@ -1,7 +1,13 @@
 # free-audio-roblox-bot
+**THIS BOT IS IN FUCKING SPANISH!!!!!!!!!!!!!!!!!!!!!**
+
 this is a old and outdated discord bot that i made.
-it uses chinnese roblox cookies for uploading shit and more stuff
+
+it uses chinnese roblox cookies for uploading free audios and more stuff
+
 you can change stuff in the file called `keys.json` for setting up your bot's token and shit.
+
+also when you finish setting the shit up in keys.json just run `add-commands.js` so the commands will be added to the guild.
 
 # json tutorial shit
 "token" - your discord bot token (used if the host is heroku)
@@ -13,6 +19,8 @@ you can change stuff in the file called `keys.json` for setting up your bot's to
 
 "betaAppId" - your alternative discord bot id
 
+
+"mainGuild" - your guild id where the bot is located at
 
 "roblosecurity" - the roblosecurity cookie of your chinnese roblox account 
 
