@@ -1,0 +1,12 @@
+{
+    "token": "your main bot token",
+    "appId": "your main bot id",
+
+    "betaToken": "your local bot token",
+    "betaAppId": "your local bot id",
+
+    "mainGuild": "the guild where the bot is located",
+
+	"roblosecurity": "your chinnese cookie here",
+	"americanCookie": "your american cookie here"
+}
